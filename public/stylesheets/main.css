@@ -1,0 +1,39 @@
+p, ul, li, img {
+    margin: 0;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+#wrap {
+    margin: 0 auto;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    padding: 5px;
+    width: 780px;
+    background: #fff;
+    /*border: 10px solid #259;*/
+}
+
+#logo {
+    margin: 0 auto;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    padding: 15px;
+    /*border: 10px solid #E33;*/
+}
+
+img.centerBlock {
+    display: block;
+    margin: 0 auto;
+}
+
+#links {
+    margin: 0 auto;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    background-color: red;
+}
